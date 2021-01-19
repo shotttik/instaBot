@@ -1,0 +1,3 @@
+# instaBot
+
+# usage - just run
